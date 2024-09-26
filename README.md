@@ -61,7 +61,7 @@
 <li><b>Congestion Surcharge</b> - Total amount collected in trip for NYS congestion surcharge.</li>
 </ol>
 <br>
-Source to download dataset - <a href='https://catalog.data.gov/dataset/2020-yellow-taxi-trip-data-january-june/resource/c3ec101d-e6c7-4084-85f3-3930defd8140'>Download Dataset</a> 
+Source to download dataset - <a href="https://data.world/vizwiz/nyc-taxi-jan-2020/workspace/file?filename=yellow_tripdata_2020-01.csv">Download Dataset</a> 
 </p>
 
 ### METHODOLOGY
